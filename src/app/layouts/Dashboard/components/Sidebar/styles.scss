@@ -1,0 +1,22 @@
+.dashboard-sidebar {
+  .ant-drawer-body {
+    padding: 0 0 20px 0;
+    overflow-x: hidden;
+
+    > ul {
+      height: calc(100% - 340px) !important;
+    }
+  }
+
+  &__link-item {
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    color: #929292;
+  }
+
+  &__copyright {
+    font-size: 12px;
+    margin-top: 10px;
+  }
+}

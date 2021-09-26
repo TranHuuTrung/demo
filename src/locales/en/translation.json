@@ -1,0 +1,17 @@
+{
+  "title": "welcome",
+  "SIDE_BAR": {
+    "DASHBOARD": "Dashboard",
+    "INVENTORY": "Inventory",
+    "QUOTES": "Quotes",
+    "ORDERS": "Orders",
+    "USERS": "Users",
+    "AUTOMATED_REPORTS": "Automated-reports",
+    "MY_PROFILE": "My Profile",
+    "SETTINGS": "Settings",
+    "LOGOUT": "Logout",
+    "TERMS_AND_CONDITIONS": "Terms and Conditions",
+    "POLICY": "Privacy Policy",
+    "COPYRIGHT": "© Copyright 2021. All rights reserved."
+  }
+}
